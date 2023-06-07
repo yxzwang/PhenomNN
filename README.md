@@ -70,7 +70,7 @@ python train_faster.py --on_dataset ModelNet40  --type phenomnn_s --hidden 128 -
 
 # Reproducing Table 2. 
 
-activate_dataset is the dataset name where it's in ['dhg/20newsW100', 'dhg/ModelNet40','dhg/NTU2012', 'dhg/yelp', 'dhg/walmart-trips-100', 'dhg/house-committees-100'] and feature_noise denotes is only useful for 'dhg/walmart-trips-100' and 'dhg/house-committees-100'.
+activate_dataset is the dataset name in ['dhg/20newsW100', 'dhg/ModelNet40','dhg/NTU2012', 'dhg/yelp', 'dhg/walmart-trips-100', 'dhg/house-committees-100'] and ```feature_noise``` is only useful for 'dhg/walmart-trips-100' and 'dhg/house-committees-100'.
 
 ## PhenomNN_simple
 ```
