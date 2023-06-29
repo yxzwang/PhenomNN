@@ -1,5 +1,5 @@
 # Introduction
-Codes for Paper: From Hypergraph Energy Functions to Hypergraph Neural Networks. *ICML 2023*. 
+Codes for Paper: [From Hypergraph Energy Functions to Hypergraph Neural Networks](https://arxiv.org/abs/2306.09623). *ICML 2023*. 
 
 We show the following commands to reproduce all results in Table 1 and 2 in our paper. All hyperparameters can be found in the last of Appendix in our paper.
 
